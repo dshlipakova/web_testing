@@ -4,7 +4,7 @@
 - [Тест-кейсы в QASE](test_cases.pdf)
 - [Баг-репорты в Youtrack](Bug_reports.pdf)   
 
-Перехват трафика в Charles Proxy ([видео](charles_proxy_web.mov)):   
+Перехват трафика в Charles Proxy ([видео](https://drive.google.com/file/d/1vDNOJnP4DjlF85cnSPQZoP0Q-ZmrZ14r/view?usp=sharing)):   
 
 - Изменение количества товаров в корзине (запрос отправляет 2 товара, а ответ возвращает 500)
 - Изменение статуса ответа с 200 на 403
