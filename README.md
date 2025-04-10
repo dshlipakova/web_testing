@@ -18,3 +18,6 @@
 ## Проект Abra (платформа для оптовой торговли)
 
 - [Mind map](https://miro.com/app/board/uXjVITmK6tA=/?share_link_id=413173156097)
+- [Чек-лист](https://docs.google.com/spreadsheets/d/1s7JlrkwR5W4qzT0KziSlKQIhpTThgJHVUCGytoBdVW4/edit?usp=sharing)
+- [Тест-кейсы](test_cases_abra.pdf)
+- [Баг-репорты](https://docs.google.com/document/d/1IamIX9T5MgneVObklZAYgikoJD12lpE7ZoZu545y8ds/edit?tab=t.s6b5fdrc1r5)
